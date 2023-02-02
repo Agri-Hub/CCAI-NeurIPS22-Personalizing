@@ -1,12 +1,10 @@
 # Personalizing Sustainable Agriculture with Causal Machine Learning
 
-<img src=parcels.png width="564" height="400">
+<img src=parcels.png width="211" height="150">
 
-This repo contains the code developed for the [Personalizing Sustainable Agriculture with Causal Machine Learning](https://arxiv.org/pdf/2211.03179.pdf) paper, published at the "Tackling Climate Change with Machine Learning Workshop" as part of NeurIPS'22. The paper won the "Best Proposal Paper" Award.
+This repository contains the code developed for the [Personalizing Sustainable Agriculture with Causal Machine Learning](https://arxiv.org/pdf/2211.03179.pdf) paper, published at the "Tackling Climate Change with Machine Learning" Workshop as part of NeurIPS'22. The paper won the "Best Proposal Paper" Award.
 
 Authors: Georgios Giannarakis, Vasileios Sitokonstantinou, Roxanne Suzette Lorilla, Charalampos Kontoes
-
-Agri-Hub | BEYOND | IAASARS | National Observatory of Athens
 
 Email contact: giannarakis (at) noa.gr
 
@@ -23,7 +21,9 @@ To cite this work, copy:
 
 ### Dependencies
 
-The code was developed and tested in Python 3.9.12. To install the dependencies run: ```pip install -r requirements.txt```.
+The code was developed and tested in Python 3.9.12. To install the dependencies run: 
+
+```pip install -r requirements.txt```
 
 ### Acknowledgements
 
