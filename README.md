@@ -1,6 +1,6 @@
 # Personalizing Sustainable Agriculture with Causal Machine Learning
 
-<img src=parcels.png width="211" height="150">
+<img src=parcels.png width="423" height="300">
 
 This repository contains the code developed for the [Personalizing Sustainable Agriculture with Causal Machine Learning](https://arxiv.org/pdf/2211.03179.pdf) paper, published at the "Tackling Climate Change with Machine Learning" Workshop as part of NeurIPS'22. The paper won the "Best Proposal Paper" Award.
 
